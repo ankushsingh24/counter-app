@@ -1,6 +1,6 @@
 import React from "react";
-import Output from "../components/Output";
-import Button from "../components/Button";
+import Output from "../components/Output/Output";
+import Button from "../components/Button/Button";
 import { useState } from "react";
 
 const Counter = () => {
